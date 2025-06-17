@@ -14,4 +14,3 @@ Este projeto trata-se do prótotipo de uma aplicação, a intenção é que o ap
 - [Mapa de navegação do aplicativo](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/Mapa-de-navega%C3%A7%C3%A3o-do-aplicativo)
 - [Widgets da aplicação](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/Widgets-da-aplica%C3%A7%C3%A3o)
 
-## Primeiro Protótipo do App Mobile
