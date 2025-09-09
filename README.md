@@ -10,6 +10,8 @@ Descrição do Projeto
 
 Este projeto trata-se do prótotipo de uma aplicação, a intenção é que o aplicativo apresente informações sobre filmes ( como sinopse, gênero, produtor, trailer, etc...) de forma simples e prática.
 
+Este projeto é um protótipo de um aplicativo mobile que reúne filmes famosos. A proposta é apresentar informações relevantes sobre cada filme, incluindo, sinopse, galeria, elenco, data de lançamento e mais.
+
 ## Tópicos
 - [Home](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki)
 - [Guia de Telas](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/Guia-de-Telas)
