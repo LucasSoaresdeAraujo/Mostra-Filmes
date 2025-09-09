@@ -20,3 +20,4 @@ Este projeto é um protótipo de um aplicativo mobile que reúne filmes famosos.
 - [Descrição](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/7.-Descri%C3%A7%C3%A3o)
 - [Códigos](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/8.-C%C3%B3digos)
 - [Widgets da aplicação](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/9.-Widgets-da-aplica%C3%A7%C3%A3o)
+- [Mudanças](https://github.com/LucasSoaresdeAraujo/Mostra-Filmes/wiki/10.-Mudan%C3%A7as)
