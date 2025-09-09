@@ -5,7 +5,7 @@ João Paulo Barbosa Pereira de Carvalho ( 2 e 3 bimestre)
 
 Kevin Novais Bezerra ( 3 bimestre)
 
-Lucas Soares de Araujo ( 3 bimestre)
+Lucas Soares de Araujo ( 2 bimestre)
 <h2>Descrição do Projeto</h2>
 
 Este projeto é um protótipo de um aplicativo mobile que reúne filmes famosos. A proposta é apresentar informações relevantes sobre cada filme, incluindo, sinopse, galeria, elenco, data de lançamento e mais.
