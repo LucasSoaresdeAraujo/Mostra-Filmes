@@ -3,6 +3,8 @@
 # Integrantes
 João Paulo Barbosa Pereira de Carvalho
 
+Kevin Novais Bezerra
+
 Lucas Soares de Araujo
 Descrição do Projeto
 
